@@ -35,7 +35,7 @@ const Login = () => {
             icon: 'success',
             title: 'You login successfully',
             showConfirmButton: false,
-            timer: 1500
+            timer: 1600
           })
     }
     else{
